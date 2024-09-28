@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1>Welcome to my page!</h1><br>
-I'm Choi Geon, from ![krFlag](https://github.com/pigking51/pigking51/assets/132924223/41410423-e49d-484a-8ced-d8e4ff16774e) **Daejeon, Korea**
+<h2>Welcome to my page!</h2><br>
+<h3>I'm Choi Geon, from Daejeon, Korea!(https://github.com/pigking51/pigking51/assets/132924223/41410423-e49d-484a-8ced-d8e4ff16774e)</h3>
 
 
 
